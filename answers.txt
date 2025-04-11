@@ -1,0 +1,21 @@
+Q1: 
+#1 
+a. git status: Shows which files have changed and whether they are ready to be saved in Git.
+b. git init: Starts a new Git project in the current folder so Git can track file changes.
+c. git commit: Saves the current changes with a message explaining what was done.
+d. git push: Sends your saved changes to an online Git repository (like GitHub) so you can share them or keep a backup.
+
+#2
+I disagree with Ahmed  because git add is essential , because it lets you choose exactly what to commit, and without it, new files won't be tracked. You'd risk losing work or making messy commits.
+
+#3
+a. GitLab, Bitbucket  
+b. 
+- Change tracking and branch management
+- Collaboration tools 
+- Project management and CI/CD integration
+- Issue tracking systems
+c. True
+
+#4 
+The -u flag links the local branch main to the remote branch origin/main. This allows  to: Use git push and git pull without needing to specify the remote branch every time.And let Git automatically recognize and sync with origin/main.
